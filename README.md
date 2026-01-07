@@ -46,10 +46,11 @@
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scsewzj&theme=merko&hide_border=true" alt="Activity Graph" />
+<p>
+[![Woshishabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=scsewzj)](https://github.com/scsewzj/scsewzjvercel)
 </p>
+
+
 
 
 
