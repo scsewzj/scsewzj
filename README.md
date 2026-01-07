@@ -47,7 +47,7 @@
 ---
 
 <p>
-[![Woshishabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=scsewzj)](https://github.com/scsewzj/scsewzjvercel)
+[![Woshishabi's GitHub stats](https://scsewzjvercel.vercel/api?username=scsewzj)](https://github.com/scsewzj/scsewzjvercel)
 </p>
 
 
