@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on **MY HARD LIFE**
 - 🌱 I'm currently learning **Bioinformatics/Computational Biology**
 - 👯 I'm looking to collaborate on **Secret**
-- 📫 How to reach me: **Null**
+- 📫 How to reach me: **uestcscsewzj@gmail.com**
 
 ---
 
