@@ -44,11 +44,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
----
-
-<p>
-[![Woshishabi's GitHub stats](https://scsewzjvercel.vercel/api?username=scsewzj)](https://github.com/scsewzj/scsewzjvercel)
-</p>
 
 
 
