@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm scsewzj
+# Hi there! 👋 I'm Woshishabi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -44,43 +44,13 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scsewzj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=scsewzj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/? user=scsewzj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=scsewzj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=scsewzj&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scsewzj&theme=merko&hide_border=true" alt="Activity Graph" />
+</p>
 
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=scsewzj&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 
-<div align="center">
-  
-  ### Show some ❤️ by starring some of the repositories!
-  
-</div>
